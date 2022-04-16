@@ -1,0 +1,10 @@
+name: dart_scope_functions
+description: Kotlin scope functions in Dart
+version: 0.0.1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dev_dependencies:
+  lints: ^1.0.1
+  test: ^1.21.0
