@@ -2,6 +2,9 @@
 .dart_tool/
 .packages
 
+# Documentation
+doc
+
 # Conventional directory for build outputs.
 build/
 
