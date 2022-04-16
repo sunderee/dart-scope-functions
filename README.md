@@ -65,3 +65,5 @@ R withFun<T, R>(T receiver, R Function (T self) block) {
 ```
 
 but that is just an over-complicated `let`, without the advantages of the actual `with`.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sunderee)
